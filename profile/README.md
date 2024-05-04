@@ -45,3 +45,4 @@
 - Publish   : /heartbeat [std_msgs::String] -> heartbeat
 
 ## Circuit Diagram
+![SCHEMATIC_V5](https://github.com/Cartrasche-CreativeProductDesign/cartrasche_atmega2560/assets/68832065/95a67de5-5f9c-4cb2-b016-d038ebe8e48e)
